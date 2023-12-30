@@ -47,6 +47,7 @@
 .cabecalho-nav-item a:hover,
 .cabecalho-nav-item a:focus {
   text-decoration: underline;
+  font-size: 2em;
 }
 
 @media (min-width: 830px) {
